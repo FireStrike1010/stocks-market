@@ -1,0 +1,13 @@
+{
+    "connection": {"host": "rc1a-5t9jgsk2neao83c4.mdb.yandexcloud.net",
+                "user": "admin",
+                "password": "degen2203",
+                "port": 9440,
+                "secure": true,
+                "verify": true,
+                "ca_certs": "C:/Users/FireStrike/Downloads/CA.pem"
+                },
+    "tickers": ["adbe", "msft", "tm"],
+    "period": "5m",
+    "interval": "1m"
+}
